@@ -16,10 +16,10 @@
     
     Components(Modules that we are going to specifically use for the project): 
       -> Data Injection - Process of Handling any kind of datasets.
-        - data_injection.py will read data from any kinds of datasets (will devide train and test and validation) 
+      - data_injection.py will read data from any kinds of datasets (will devide train and test and validation) 
       -> Data Transformation - This is the process after reading the data like (data transformation, validation etc )
-        - data_transformation.py will do change the catagorical data to numerical data, handling onehot encoding, level encoding etc 
+      - data_transformation.py will do change the catagorical data to numerical data, handling onehot encoding, level encoding etc 
       -> Model trainer - All kinds of training code will stay here
-        - model_trainer.py
+      - model_trainer.py
     Pipeline(Training and Test Pipleline):
       -> Prediction  
