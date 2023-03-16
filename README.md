@@ -47,3 +47,8 @@
 - Import Necessary Libraries
 - Split the data using Sklearn in Train-Test split
 - Trail all models
+
+### Day-4 Data Ingestion Implementation
+
+- Initial Part of Data Ingestion
+- We will be implementing the data ingestion where we will be performing necessary tasks such reading the dataset,dividing the dataset into train and test and saving it in the artifact folder
